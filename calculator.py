@@ -4,7 +4,6 @@ Simple Calculator Application
 This is a basic calculator built using Python's tkinter library.
 It supports addition, subtraction, multiplication, and division.
 
-Author: (Your Name)
 Date: 21.12.2025
 """
 
@@ -115,3 +114,4 @@ for i in list_buttons:
 # Run Application
 # -----------------------------
 window.mainloop()
+
